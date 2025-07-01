@@ -1,6 +1,6 @@
-package StratergyPattern.Vehicles;
+package patterns.strategy.Vehicles;
 
-import StratergyPattern.strategy.DrivingStrategy;
+import patterns.strategy.strategies.DrivingStrategy;
 
 public class Vehicle {
     DrivingStrategy drivingStrategy;

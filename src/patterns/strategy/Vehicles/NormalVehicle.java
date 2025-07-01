@@ -1,7 +1,7 @@
-package StratergyPattern.Vehicles;
+package patterns.strategy.Vehicles;
 
-import StratergyPattern.strategy.DrivingStrategy;
-import StratergyPattern.strategy.NormalDrivingStrategy;
+import patterns.strategy.strategies.DrivingStrategy;
+import patterns.strategy.strategies.NormalDrivingStrategy;
 
 public class NormalVehicle  {
     private final DrivingStrategy strategy = new NormalDrivingStrategy();

@@ -1,7 +1,7 @@
-package StratergyPattern;
+package patterns.strategy;
 
-import StratergyPattern.Vehicles.NormalVehicle;
-import StratergyPattern.Vehicles.SpecialVehicle;
+import patterns.strategy.Vehicles.NormalVehicle;
+import patterns.strategy.Vehicles.SpecialVehicle;
 
 public class Main {
     public static void main(String[] args) {

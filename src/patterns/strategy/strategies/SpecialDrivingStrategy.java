@@ -1,4 +1,4 @@
-package StratergyPattern.strategy;
+package patterns.strategy.strategies;
 
 public class SpecialDrivingStrategy implements DrivingStrategy {
 
